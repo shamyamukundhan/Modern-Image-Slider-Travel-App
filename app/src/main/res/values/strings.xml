@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TravelApp Concept</string>
+    <string name="explore"> Explore</string>
+    <string name="favorite">Favorite </string>
+    <string name="search">Search </string>
+    <string name="hello_natalie">Hello,Natalie</string>
+    <string name="weareere">Where are we</string>
+    <string name="goingtoday">going today</string>
+</resources>
